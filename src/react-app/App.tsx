@@ -15,7 +15,7 @@ function App() {
 		<>
 			<div>
 				<a href="https://vite.dev" target="_blank">
-					<img src="https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-15t-pro/pc/43ae224614d1cd4bd3d99d187ef0feca.jpg" className="logo" alt="Vite logo" />
+					<img src="https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-15t-pro/pc/43ae224614d1cd4bd3d99d187ef0feca.jpg?f=webp"/>
 				</a>
 				<a href="https://react.dev" target="_blank">
 					<img src={reactLogo} className="logo react" alt="React logo" />
